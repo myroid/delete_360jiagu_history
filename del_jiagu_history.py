@@ -22,7 +22,7 @@ def del_app(app):
 
 def get_app_list():
     params = dict()
-    params['limit'] = 1
+    params['limit'] = 10
     params['offset'] = 0
     params['name'] = ''
     params['fileName'] = ''
