@@ -5,6 +5,7 @@
 1. 由于需要实现的功能单一，没有必要实现自动登陆的功能
 2. 使用之前需要先在网页端手动登陆后将cookie复制到脚本中
 
+##### [github地址](https://github.com/myroid/delete_360jiagu_history)
 ```python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
